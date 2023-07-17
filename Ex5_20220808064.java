@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 
 public class Ex5_20220808064 {
-
+    public static void main(String[] args){
+        System.out.println("test");
+    }
 }
 class Account{
     private String accountNumber;
